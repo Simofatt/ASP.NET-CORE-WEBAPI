@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ykZgUJnk1Uo/kjZVtT+0INNEI1tEIFx8BuO2YR+D2bTb0ONzJxUOWIvUrZ8Ii27ZIRvJ8Cu2JJ7w7xWtghQvFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simofatt\\PokemonReviewApp\\Utility\\Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simofatt\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Simofatt\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

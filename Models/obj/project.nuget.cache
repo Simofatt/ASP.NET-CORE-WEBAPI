@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y0BjnfZpMFm8U0qGAvwFj4GtD0StKENFs+rGvRd3/zK5b2GSTXNkooDwRoOz74At9oMEJIn/WdQe/MjcTwc4tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simofatt\\PokemonReviewApp\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simofatt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Simofatt\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
