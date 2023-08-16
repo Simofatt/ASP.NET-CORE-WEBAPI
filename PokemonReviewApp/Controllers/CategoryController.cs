@@ -120,13 +120,13 @@ namespace ReviewApp.Controllers
         }
 
 
-        [HttpPut(nameof(Update))]
+        [HttpPut(nameof(UpdateCategory))]
         [ProducesResponseType(204)]
         [ProducesResponseType(400)]
         [ProducesResponseType(404)]
         [ProducesResponseType(500)]
         
-        public IActionResult Update([FromQuery]int categoryId, [FromBody] CategoryDto category) {
+        public IActionResult UpdateCategory([FromQuery]int categoryId, [FromBody] CategoryDto category) {
             var checkCategory = _unitOfWork.Category.ItExists(categoryId);
             if (category  is null)
                 return BadRequest(ModelState);
